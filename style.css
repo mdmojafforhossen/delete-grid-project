@@ -1,0 +1,16 @@
+
+.hero{
+	margin: 10px 0px;
+}
+header, .hero,.body,.bar,.footer{
+	background-color:green;
+	padding: 20px 0px;
+	margin: 5px 0px;
+}
+.box{
+	margin: 5px 0px;
+	color: white;
+	font-size: 40px;
+	background-color: red;
+	border: 10px solid black;
+}
